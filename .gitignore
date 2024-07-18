@@ -1,0 +1,9 @@
+# VS Code
+.vscode
+
+# JetBrains
+.idea
+.iml
+
+# If you use another software that adds files to the project root
+# Add them here

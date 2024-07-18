@@ -1,0 +1,168 @@
+{"version":0,"sembast":1}
+{"key":"93f939df-577c-46ae-9fee-1d9c3dc199f0","store":"models","value":{"id":"93f939df-577c-46ae-9fee-1d9c3dc199f0","version":"t03-v05-i03","created":{"value":"2023-05-14T18:30:00.000Z"},"name":"OCR Model","cloud":false,"type":"BALANCED","usage":"OCR","cpu":true}}
+{"key":"b3788c03-e9bf-41bf-9a71-05f62808ad2a","store":"models","value":{"id":"b3788c03-e9bf-41bf-9a71-05f62808ad2a","version":"t01-v04-i00","created":{"value":"2022-01-11T18:30:00.000Z"},"name":"Code Classification Model - 43 languages","cloud":false,"type":"BALANCED","usage":"CODE_CLASSIFICATION","foundation":"T5","cpu":true}}
+{"key":"19f05e9a-5e95-4016-a2a2-3a7250613aab","store":"models","value":{"id":"19f05e9a-5e95-4016-a2a2-3a7250613aab","version":"t02-v02-i03","created":{"value":"2022-02-16T18:30:00.000Z"},"name":"Text vs. Code Model","cloud":false,"type":"SPEED","usage":"TEXT_VS_CODE","cpu":true}}
+{"key":"98f4c3e8-7f3c-458b-b252-a60f55073851","store":"models","value":{"id":"98f4c3e8-7f3c-458b-b252-a60f55073851","version":"t04-v02-i01","created":{"value":"2022-10-04T18:30:00.000Z"},"name":"Tagify Code Model","cloud":false,"type":"BALANCED","usage":"TAGIFY_CODE","cpu":true}}
+{"key":"bc0cf018-2791-4099-a803-41c80f785f54","store":"models","value":{"id":"bc0cf018-2791-4099-a803-41c80f785f54","version":"t05-v01-i02","created":{"value":"2023-05-13T18:30:00.000Z"},"name":"Code Description Model","cloud":false,"type":"BALANCED","usage":"CODE_DESCRIPTION","foundation":"T5","cpu":true}}
+{"key":"1b05c8c5-ad5b-4423-9ac8-a7b2854d30f8","store":"models","value":{"id":"1b05c8c5-ad5b-4423-9ac8-a7b2854d30f8","version":"t06-v03-i01","created":{"value":"2023-05-31T18:30:00.000Z"},"name":"Neural Code Search Model","cloud":false,"type":"BALANCED","usage":"TLP_NEURAL_CODE_SEARCH","cpu":true}}
+{"key":"2403248b-c017-42b4-89b3-739169048a55","store":"models","value":{"id":"2403248b-c017-42b4-89b3-739169048a55","version":"t07-v01-i02","created":{"value":"2023-05-13T18:30:00.000Z"},"name":"Code Titles Model","cloud":false,"type":"BALANCED","usage":"CODE_TITLE","foundation":"T5","cpu":true}}
+{"key":"d86250d9-700d-4f90-b0be-a4e2e726e59a","store":"models","value":{"id":"d86250d9-700d-4f90-b0be-a4e2e726e59a","version":"t08-v01-i01","created":{"value":"2023-05-22T18:30:00.000Z"},"name":"Suggested Search Queries Model","cloud":false,"type":"BALANCED","usage":"CODE_SEARCH_QUERIES","foundation":"T5","cpu":true}}
+{"key":"8fe249f2-1864-431e-9a45-bcab84439639","store":"models","value":{"id":"8fe249f2-1864-431e-9a45-bcab84439639","version":"t09-v01-i01","created":{"value":"2023-05-22T18:30:00.000Z"},"name":"Extractive Tags Model","cloud":false,"type":"BALANCED","usage":"CODE_EXTRACTIVE_TAGS","foundation":"T5","cpu":true}}
+{"key":"807b1108-3004-40ae-aa8f-58a8c5e34dfd","store":"models","value":{"id":"807b1108-3004-40ae-aa8f-58a8c5e34dfd","version":"t10-v01-i01","created":{"value":"2023-06-14T18:30:00.000Z"},"name":"Extractive Links Model","cloud":false,"type":"BALANCED","usage":"CODE_EXTRACTIVE_LINKS","foundation":"T5","cpu":true}}
+{"key":"427767ba-cd26-461f-85d7-2d2702db7ba7","store":"models","value":{"id":"427767ba-cd26-461f-85d7-2d2702db7ba7","version":"t11-v01-i01","created":{"value":"2023-08-17T18:30:00.000Z"},"name":"Llama2 GPU Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"LLAMA_2_7B","unique":"Llama-2-7b-chat-hf-q4f16_1","cpu":false,"maxTokens":{"total":2048,"input":1536,"output":512}}}
+{"key":"485708fc-2732-40cf-bd5d-42d73a437950","store":"models","value":{"id":"485708fc-2732-40cf-bd5d-42d73a437950","version":"t11-v02-i01","created":{"value":"2023-08-17T18:30:00.000Z"},"name":"Llama2 CPU Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"LLAMA_2_7B","unique":"llama-2-7b-chat.q4_K_M","cpu":true,"maxTokens":{"total":1536,"input":1024,"output":512}}}
+{"key":"43a8e08c-6015-4261-a205-ca570186ca34","store":"models","value":{"id":"43a8e08c-6015-4261-a205-ca570186ca34","version":"t11-v03-i01","created":{"value":"2023-08-30T18:30:00.000Z"},"name":"CodeLlama GPU Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"CODE_LLAMA_2_7B","unique":"CodeLlama-7b-Instruct-hf-q4f16_1","cpu":false}}
+{"key":"bc46d3a4-d785-40bf-8644-695219e50cca","store":"models","value":{"id":"bc46d3a4-d785-40bf-8644-695219e50cca","version":"t11-v04-i01","created":{"value":"2023-08-30T18:30:00.000Z"},"name":"CodeLlama CPU Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"CODE_LLAMA_2_7B","unique":"codellama-7b-instruct.Q4_K_M","cpu":true}}
+{"key":"1f41b9b4-7b58-4247-8519-3cb180c31540","store":"models","value":{"id":"1f41b9b4-7b58-4247-8519-3cb180c31540","version":"t11-v05-i01","created":{"value":"2024-01-21T18:30:00.000Z"},"name":"NeuralHermes-2.5-Mistral-7B GPU Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"MISTRAL_7B","unique":"NeuralHermes-2.5-Mistral-7B-q4f16_1","cpu":false,"maxTokens":{"total":2048,"input":1536,"output":512}}}
+{"key":"ac36dc90-8a26-4096-acf0-a6d916902da4","store":"models","value":{"id":"ac36dc90-8a26-4096-acf0-a6d916902da4","version":"t11-v06-i01","created":{"value":"2024-01-21T18:30:00.000Z"},"name":"NeuralHermes-2.5-Mistral-7B CPU Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"MISTRAL_7B","unique":"neuralhermes-2.5-mistral-7b.q4_K_M","cpu":true,"maxTokens":{"total":1536,"input":1024,"output":512}}}
+{"key":"f6f787dc-d823-4428-93b0-013d8fbeef11","store":"models","value":{"id":"f6f787dc-d823-4428-93b0-013d8fbeef11","version":"t11-v07-i01","created":{"value":"2024-02-12T18:30:00.000Z"},"name":"Phi-2 GPU Chat Model","cloud":false,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"PHI_2","unique":"dolphin-2_6-phi-2-q4f16_1","cpu":false,"maxTokens":{"total":2048,"input":1536,"output":512}}}
+{"key":"38d72a78-bc7a-4561-8970-3f04ea6262de","store":"models","value":{"id":"38d72a78-bc7a-4561-8970-3f04ea6262de","version":"t11-v07-i01","created":{"value":"2024-02-12T18:30:00.000Z"},"name":"Phi-2 CPU Chat Model","cloud":false,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"PHI_2","unique":"dolphin-2_6-phi-2.q4_K_M","cpu":true,"maxTokens":{"total":1536,"input":1024,"output":512}}}
+{"key":"7aa75f9e-1526-4a92-87b8-4617a7e4ad48","store":"models","value":{"id":"7aa75f9e-1526-4a92-87b8-4617a7e4ad48","version":"t12-v01-i01","created":{"value":"2023-06-14T18:30:00.000Z"},"name":"Related People Model","cloud":false,"type":"BALANCED","usage":"CODE_RELATED_PEOPLE","cpu":true}}
+{"key":"d5524dc9-b9c5-472b-82a7-362088acb01f","store":"models","value":{"id":"d5524dc9-b9c5-472b-82a7-362088acb01f","version":"t13-v01-i01","created":{"value":"2023-09-15T18:30:00.000Z"},"name":"GPT-3.5-turbo Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_3.5","unique":"gpt-3.5-turbo","provider":"OPENAI","cpu":false,"maxTokens":{"total":4000,"input":2050,"output":1950}}}
+{"key":"5688bd66-9970-4e23-a237-f8aa6f5ec6fb","store":"models","value":{"id":"5688bd66-9970-4e23-a237-f8aa6f5ec6fb","version":"t13-v01-i01","created":{"value":"2023-09-15T18:30:00.000Z"},"name":"GPT-3.5-turbo-16k Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_3.5","unique":"gpt-3.5-turbo-16k","provider":"OPENAI","cpu":false,"maxTokens":{"total":16000,"input":12000,"output":4000}}}
+{"key":"7e693934-e350-42ac-a96e-d240e0ee9200","store":"models","value":{"id":"7e693934-e350-42ac-a96e-d240e0ee9200","version":"t14-v01-i01","created":{"value":"2023-09-15T18:30:00.000Z"},"name":"GPT-4 Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_4","unique":"gpt-4","provider":"OPENAI","cpu":false,"maxTokens":{"total":8000,"input":4100,"output":3900}}}
+{"key":"0ae550f5-0d2e-4172-bcd8-2dd8993164a5","store":"models","value":{"id":"0ae550f5-0d2e-4172-bcd8-2dd8993164a5","version":"t15-v01-i01","created":{"value":"2023-09-15T18:30:00.000Z"},"name":"Codey (PaLM2) Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"CODECHAT_BISON","unique":"codechat-bison","provider":"GOOGLE","cpu":false,"maxTokens":{"total":7000,"input":6000,"output":1000}}}
+{"key":"a7fcbe64-3118-4978-8d09-dba53ccaa157","store":"models","value":{"id":"a7fcbe64-3118-4978-8d09-dba53ccaa157","version":"t16-v01-i01","created":{"value":"2023-09-15T18:30:00.000Z"},"name":"(PaLM2) Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"CHAT_BISON","unique":"chat-bison","provider":"GOOGLE","cpu":false,"maxTokens":{"total":9000,"input":8000,"output":1000}}}
+{"key":"e5f06382-7bab-47ec-b14e-ac36d1cef870","store":"models","value":{"id":"e5f06382-7bab-47ec-b14e-ac36d1cef870","version":"t17-v01-i01","created":{"value":"2022-11-07T18:30:00.000Z"},"name":"Text vs. Code Segmentation Model","cloud":false,"type":"SPEED","usage":"TEXT_VS_CODE_SEGMENTATION","cpu":true}}
+{"key":"fa83a1b1-9cf6-4e69-9c58-056801a37978","store":"models","value":{"id":"fa83a1b1-9cf6-4e69-9c58-056801a37978","version":"t18-v01-i01","created":{"value":"2023-11-09T18:30:00.000Z"},"name":"Unixcoder Code Search Model","cloud":false,"type":"ACCURACY","usage":"CODE_SEARCH","foundation":"UNIXCODER","cpu":true}}
+{"key":"addbb9bf-767e-44f7-8053-da80b7f3a270","store":"models","value":{"id":"addbb9bf-767e-44f7-8053-da80b7f3a270","version":"t19-v01-i01","created":{"value":"2023-11-09T18:30:00.000Z"},"name":"VideoOCR Model","cloud":false,"type":"BALANCED","usage":"VIDEO_OCR","cpu":true}}
+{"key":"92fab412-3d9a-4b86-8262-d233acbf6fb0","store":"models","value":{"id":"92fab412-3d9a-4b86-8262-d233acbf6fb0","version":"t20-v01-i01","created":{"value":"2023-11-09T18:30:00.000Z"},"name":"Jina Text Embedding Model","cloud":false,"type":"ACCURACY","usage":"TEXT_EMBEDDING","provider":"JINA","cpu":true}}
+{"key":"51eef667-1c5f-4fa1-b97c-65a40f39f772","store":"models","value":{"id":"51eef667-1c5f-4fa1-b97c-65a40f39f772","version":"t21-v01-i01","created":{"value":"2023-11-09T18:30:00.000Z"},"name":"FastText Text Embedding Model","cloud":false,"type":"SPEED","usage":"TEXT_EMBEDDING","foundation":"FAST_TEXT","provider":"META","cpu":true}}
+{"key":"2c5e0774-d3ef-4415-8bb1-3b9673f21773","store":"models","value":{"id":"2c5e0774-d3ef-4415-8bb1-3b9673f21773","version":"t22-v01-i01","created":{"value":"2024-01-07T18:30:00.000Z"},"name":"(Gemini) Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GEMINI","unique":"gemini-pro","provider":"GOOGLE","cpu":false,"maxTokens":{"total":32000,"input":20000,"output":8000}}}
+{"key":"19695c39-bb2a-43ef-aabf-8455f917f6a3","store":"models","value":{"id":"19695c39-bb2a-43ef-aabf-8455f917f6a3","version":"t23-v01-i01","created":{"value":"2024-02-08T18:30:00.000Z"},"name":"GPT-4 Preview Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_4","unique":"gpt-4-turbo-preview","provider":"OPENAI","cpu":false,"maxTokens":{"total":32000,"input":22000,"output":10000}}}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"key":"cdf971ba-f8aa-4896-b3b3-c81e8f15b613","store":"models","value":{"id":"cdf971ba-f8aa-4896-b3b3-c81e8f15b613","version":"t11-v08-i01","created":{"value":"2024-03-17T18:30:00.000Z"},"name":"Mixtral GPU Chat Model","cloud":false,"type":"ACCURACY","usage":"CODE_CONVERSATION","foundation":"MIXTRAL_8_x_7B","unique":"Nous-Hermes-2-Mixtral-8x7B-DPO-q4f16_1","cpu":false,"maxTokens":{"total":2048,"input":1536,"output":512}}}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"key":"19695c39-bb2a-43ef-aabf-8455f917f6a3","store":"models","value":{"id":"19695c39-bb2a-43ef-aabf-8455f917f6a3","version":"t23-v01-i01","created":{"value":"2024-02-08T18:30:00.000Z"},"name":"GPT-4 Turbo Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_4","unique":"gpt-4-turbo","provider":"OPENAI","cpu":false,"maxTokens":{"total":32000,"input":22000,"output":10000}}}
+{"key":"f214f8e1-7746-4812-88bd-414429cf1acb","store":"models","value":{"id":"f214f8e1-7746-4812-88bd-414429cf1acb","version":"t24-v01-i01","created":{"value":"2024-05-14T18:30:00.000Z"},"name":"GPT-4o Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_4","unique":"gpt-4o","provider":"OPENAI","cpu":false,"maxTokens":{"total":32000,"input":22000,"output":10000}}}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"key":"38d72a78-bc7a-4561-8970-3f04ea6262de","deleted":true,"store":"models"}
+{"key":"485708fc-2732-40cf-bd5d-42d73a437950","deleted":true,"store":"models"}
+{"key":"ac36dc90-8a26-4096-acf0-a6d916902da4","deleted":true,"store":"models"}
+{"key":"b9430198-d7c0-4c62-814e-6e7ebe4621d1","store":"models","value":{"id":"b9430198-d7c0-4c62-814e-6e7ebe4621d1","version":"t11-v02-i01","created":{"value":"2023-08-17T18:30:00.000Z"},"name":"Llama-2 7B Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"LLAMA_2_7B","unique":"llama-2-7b-chat.q4_K_M","cpu":false,"maxTokens":{"total":4096,"input":3584,"output":512}}}
+{"key":"5a07a431-c644-4c58-8e69-4d9a2dcf221c","store":"models","value":{"id":"5a07a431-c644-4c58-8e69-4d9a2dcf221c","version":"t11-v04-i01","created":{"value":"2023-08-30T18:30:00.000Z"},"name":"CodeLlama Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"CODE_LLAMA_2_7B","unique":"codellama-7b-instruct.Q4_K_M","cpu":false}}
+{"key":"069cc378-9ca5-410d-8e89-aef09a63793d","store":"models","value":{"id":"069cc378-9ca5-410d-8e89-aef09a63793d","version":"t11-v06-i01","created":{"value":"2024-01-21T18:30:00.000Z"},"name":"NeuralHermes-2.5-Mistral-7B Chat Model","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"MISTRAL_7B","unique":"neuralhermes-2.5-mistral-7b.q4_K_M","cpu":false,"maxTokens":{"total":4096,"input":3584,"output":512}}}
+{"key":"4f6eb96a-09e5-49e9-8f96-82261cd42955","store":"models","value":{"id":"4f6eb96a-09e5-49e9-8f96-82261cd42955","version":"t11-v07-i01","created":{"value":"2024-02-12T18:30:00.000Z"},"name":"Phi-2 Chat Model","cloud":false,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"PHI_2","unique":"dolphin-2_6-phi-2.q4_K_M","cpu":false,"maxTokens":{"total":2048,"input":1536,"output":512}}}
+{"key":"20df82f4-7c02-4814-8d91-d6fafeaa15d0","store":"models","value":{"id":"20df82f4-7c02-4814-8d91-d6fafeaa15d0","version":"t11-v08-i01","created":{"value":"2024-05-21T18:30:00.000Z"},"name":"Llama-3 8B Instruct","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"LLAMA_3_8B","unique":"llama-3-8b-instruct.q4_K_M","cpu":false,"maxTokens":{"total":8192,"input":7680,"output":512}}}
+{"key":"7a840d68-ff8f-4163-b5fa-7045353fb929","store":"models","value":{"id":"7a840d68-ff8f-4163-b5fa-7045353fb929","version":"t11-v09-i01","created":{"value":"2024-05-22T18:30:00.000Z"},"name":"Phi-3-mini-4k-instruct","cloud":false,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"PHI_3_MINI","unique":"Phi-3-mini-4k-instruct.q4_K_M","cpu":false,"maxTokens":{"total":4096,"input":3584,"output":512}}}
+{"key":"e10162a1-4b9e-478d-b693-49bf5440ace4","store":"models","value":{"id":"e10162a1-4b9e-478d-b693-49bf5440ace4","version":"t11-v10-i01","created":{"value":"2024-05-23T18:30:00.000Z"},"name":"Phi-3-mini-128k-instruct","cloud":false,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"PHI_3_MINI","unique":"Phi-3-mini-128k-instruct.q4_K_M","cpu":false,"maxTokens":{"total":15512,"input":10000,"output":512}}}
+{"key":"bfb8feb9-62de-462a-b80a-5da296be3f39","store":"models","value":{"id":"bfb8feb9-62de-462a-b80a-5da296be3f39","version":"t11-v11-i01","created":{"value":"2024-05-23T18:30:00.000Z"},"name":"gemma-1.1-2b-it","cloud":false,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"GEMMA_1.1_2B","unique":"gemma-1.1-2b-it.q4_K_M","cpu":false,"maxTokens":{"total":8192,"input":7680,"output":512}}}
+{"key":"07fbf4a5-c9bc-4cd4-97ee-e61eeeeeb985","store":"models","value":{"id":"07fbf4a5-c9bc-4cd4-97ee-e61eeeeeb985","version":"t11-v12-i01","created":{"value":"2024-05-23T18:30:00.000Z"},"name":"gemma-1.1-7b-it","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GEMMA_1.1_7B","unique":"gemma-1.1-7b-it.q4_K_M","cpu":false,"maxTokens":{"total":8192,"input":7680,"output":512}}}
+{"key":"db2490e0-fb64-4b97-a26a-4e6fd6df58e0","store":"models","value":{"id":"db2490e0-fb64-4b97-a26a-4e6fd6df58e0","version":"t11-v14-i01","created":{"value":"2024-05-27T18:30:00.000Z"},"name":"codegemma-1.1-7b-it","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"CODE_GEMMA_7B","unique":"codegemma-1.1-7b-it.q4_K_M","cpu":false,"maxTokens":{"total":8192,"input":7680,"output":512}}}
+{"key":"579d9dfd-cc6e-4553-b3f5-2522938f9309","store":"models","value":{"id":"579d9dfd-cc6e-4553-b3f5-2522938f9309","version":"t11-v15-i01","created":{"value":"2024-06-13T18:30:00.000Z"},"name":"granite-3b-code-instruct","cloud":false,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"GRANITE_3B","unique":"granite-3b-code-instruct.q4_K_M","cpu":false,"maxTokens":{"total":2048,"input":1536,"output":512}}}
+{"key":"ee058fff-a6cd-48ba-ba63-0b7cf39d866a","store":"models","value":{"id":"ee058fff-a6cd-48ba-ba63-0b7cf39d866a","version":"t11-v15-i01","created":{"value":"2024-06-13T18:30:00.000Z"},"name":"granite-8b-code-instruct","cloud":false,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GRANITE_8B","unique":"granite-8b-code-instruct.q4_K_M","cpu":false,"maxTokens":{"total":4096,"input":3584,"output":512}}}
+{"key":"d5524dc9-b9c5-472b-82a7-362088acb01f","store":"models","value":{"id":"d5524dc9-b9c5-472b-82a7-362088acb01f","version":"t13-v01-i01","created":{"value":"2023-09-15T18:30:00.000Z","readable":"10 months ago"},"name":"GPT-3.5-turbo Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_3.5","unique":"gpt-3.5-turbo","provider":"OPENAI","cpu":false,"maxTokens":{"total":16000,"input":12000,"output":4000},"schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"5c43d05c-9c02-4ca1-a253-7ed24ca7bddb","store":"models","value":{"id":"5c43d05c-9c02-4ca1-a253-7ed24ca7bddb","version":"t25-v01-i01","created":{"value":"2024-05-27T18:30:00.000Z"},"name":"Gemini-1.5 Pro Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GEMINI_1.5","unique":"gemini-1.5-pro","provider":"GOOGLE","cpu":false,"maxTokens":{"total":32000,"input":22000,"output":10000}}}
+{"key":"67ee2265-43a2-48ed-8a28-a853b0470e72","store":"models","value":{"id":"67ee2265-43a2-48ed-8a28-a853b0470e72","version":"t26-v01-i01","created":{"value":"2024-05-27T18:30:00.000Z"},"name":"Gemini-1.5 Flash Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"GEMINI_1.5","unique":"gemini-1.5-flash","provider":"GOOGLE","cpu":false,"maxTokens":{"total":32000,"input":22000,"output":10000}}}
+{"key":"8759bcee-2410-4f6f-b2d7-b4a9a7c1e8f8","store":"models","value":{"id":"8759bcee-2410-4f6f-b2d7-b4a9a7c1e8f8","version":"t27-v01-i01","created":{"value":"2024-06-19T18:30:00.000Z"},"name":"Claude 3.5 Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3.5","unique":"claude-3-5-sonnet@20240620","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":32000,"input":27904,"output":4096}}}
+{"key":"7dbe708f-955e-4fdb-9c29-31e344729bc1","store":"models","value":{"id":"7dbe708f-955e-4fdb-9c29-31e344729bc1","version":"t28-v01-i01","created":{"value":"2024-02-28T18:30:00.000Z"},"name":"Claude 3 Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3","unique":"claude-3-sonnet@20240229","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":32000,"input":27904,"output":4096}}}
+{"version":0,"sembast":1}

@@ -1,0 +1,132 @@
+{"version":0,"sembast":1}
+{"key":"04fa9bc0-655a-43d6-afe7-9592d3805b3d","store":"conversations","value":{"id":"04fa9bc0-655a-43d6-afe7-9592d3805b3d","created":{"value":"2024-03-04T08:35:22.916322Z","readable":"a moment ago"},"updated":{"value":"2024-03-04T08:35:29.195753Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"bb34941f-0b91-474f-9fec-90689805ecb8":0,"a4d8f889-bf66-4fe4-9d6a-c36fe328f95a":1}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"General Inquiry"}}
+{"key":"135b8a51-a1fd-4d25-992a-6719acf8752f","store":"conversations","value":{"id":"135b8a51-a1fd-4d25-992a-6719acf8752f","created":{"value":"2024-03-05T17:49:57.318536Z","readable":"15 hours ago"},"updated":{"value":"2024-03-06T09:03:16.726225Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"da0e4fa2-2234-4175-a830-2d7bb5d9234e":0,"cb28f75d-5612-47db-aa1e-a8f58f0d49c0":1,"4baafcd1-fde7-491c-a2b2-d8a2c4c73faf":2,"03533dc7-eff4-4a74-92b2-36440eff0e69":3,"0e1fd40f-3cc2-4772-8bff-b69e055c840f":4,"3a8f8fba-505b-4a0f-968f-d5ee30dc9856":5,"06f76a50-292a-4349-bb17-73375ec94ffc":6,"3a4ef151-3be5-479a-87d4-f6e29480b0a4":7,"b5d8e8dc-88a1-42bb-b93e-66c85c281229":8,"d0214dd8-4321-4dff-a54a-caa7427740da":9,"5649f703-d709-431a-acdb-3e899349a082":10,"1f5d1fa9-9c27-4def-9523-e66e4508f5f9":11}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Using Faker in JS","annotations":{"iterable":[],"indices":{"163cf52d-65a5-4415-be8b-f2f09984eb99":0,"e8bdd882-71b7-4ad5-b8b3-992c9beef0cc":1}},"model":{"id":"5688bd66-9970-4e23-a237-f8aa6f5ec6fb"}}}
+{"key":"3861d4c3-03e9-4857-95a9-5a35dc6edede","store":"conversations","value":{"id":"3861d4c3-03e9-4857-95a9-5a35dc6edede","created":{"value":"2024-03-05T09:16:30.135144Z","readable":"about an hour ago"},"updated":{"value":"2024-03-05T10:03:52.639141Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"528dd2f2-1ac6-4155-adb4-c2b9ce528183":0,"69bcd4c8-00bf-4f90-9455-76d9e963d4cd":1,"56c68cd4-7176-48a7-933d-a56d7a1dce76":2}},"assets":{"iterable":[],"indices":{}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"demo":true,"annotations":{"iterable":[],"indices":{"5e66592f-0055-4ab2-a97a-c3909676e158":0}},"name":"Basic HTML Guide"}}
+{"key":"65ada173-b6e9-4278-a15a-3cc0271f498e","store":"conversations","value":{"id":"65ada173-b6e9-4278-a15a-3cc0271f498e","created":{"value":"2024-03-04T08:36:14.661682Z","readable":"about an hour ago"},"updated":{"value":"2024-03-04T09:56:02.975872Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"1d2df575-0b12-48b2-b1a9-16b33f33ff14":0,"c2deb5ad-d1b8-4036-bf20-4ba6ceea5a56":1,"af7d2fda-69b1-4ac0-bde1-0f4d3fc16208":2,"8abf76df-80ab-41d3-80cd-80075b98a6b1":3}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Array to Object Conversion"}}
+{"key":"660f03d3-32a5-44d0-a782-bf66906c2b99","store":"conversations","value":{"id":"660f03d3-32a5-44d0-a782-bf66906c2b99","created":{"value":"2024-03-05T09:16:37.988905Z","readable":"a moment ago"},"updated":{"value":"2024-03-05T09:17:00.024881Z"},"messages":{"iterable":[],"indices":{"f615269b-aa78-42fb-b70b-5f9890aafcec":0,"cc1f38ff-5d5c-4ac0-8688-3aa3a50cf406":1,"57355906-9c33-4f48-8e0f-6fe198ebb61f":2}},"assets":{"iterable":[],"indices":{"fbfa67af-8cd4-4023-b650-297ae0ebd8bb":0}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"demo":true,"annotations":{"iterable":[],"indices":{"31715c14-e1e9-4083-b8eb-1887f9e55fe8":0}},"name":"Express Server Setup"}}
+{"key":"66e5118b-0928-4e2e-b133-a26e44defb87","store":"conversations","value":{"id":"66e5118b-0928-4e2e-b133-a26e44defb87","created":{"value":"2024-03-04T10:19:50.171224Z","readable":"a day ago"},"updated":{"value":"2024-03-05T10:50:52.642396Z"},"messages":{"iterable":[],"indices":{"fc95c672-3bd6-44cf-8265-ed237e1937db":0,"44f0f967-3909-43a4-8855-d7719662fba2":1}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Toggle Cart Display","anchors":{"iterable":[],"indices":{"347c25e9-6b19-4f9d-be4e-9b6868133969":0}}}}
+{"key":"6c7a4fff-ff4b-4bc3-b800-c3349dffc4d2","store":"conversations","value":{"id":"6c7a4fff-ff4b-4bc3-b800-c3349dffc4d2","created":{"value":"2024-03-04T10:02:54.511261Z","readable":"14 minutes ago"},"updated":{"value":"2024-03-04T10:16:59.264441Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"761f7f6a-e439-49c9-9aa7-51cf73bc5b1a":0,"c850eaa8-77b3-4837-8159-24ec0d13fcb7":1,"b67ad89a-c26a-4bd9-b149-3d900f933039":2,"ca5d36fc-6818-4cc4-93d0-e88577cccb4b":3}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Code Explanation Request"}}
+{"key":"975d2a43-7089-4259-b3fc-64320e1aa310","store":"conversations","value":{"id":"975d2a43-7089-4259-b3fc-64320e1aa310","created":{"value":"2024-03-07T14:05:08.499349Z","readable":"a minute ago"},"updated":{"value":"2024-03-07T14:06:28.803386Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"24f8dce4-12e0-4713-8661-a3858b3ffc9d":0,"ad38790a-2bac-4e20-8b4d-fc749989806a":1,"e3e232bf-dd50-42f8-8e65-b34cf6d25ede":2,"0c52a722-5380-4eb3-9310-6249423cdc94":3,"889c63d6-c2db-48a4-819f-9fe1755e6307":4,"ce09c00d-afcc-4abc-834b-b5c32e3d2f1d":5,"52c07564-6d15-44ce-af4b-3b2eda81d40a":6}},"assets":{"iterable":[],"indices":{"fb0ab6c2-3699-41fa-9a2a-85e26810d46f":0}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Git Basics Explained","annotations":{"iterable":[],"indices":{"cb6424e3-b2f4-4057-b369-aa95b0826600":0,"ba45a484-aff0-4c40-9e11-fbb4871dad38":1}},"model":{"id":"7e693934-e350-42ac-a96e-d240e0ee9200"}}}
+{"key":"aa517765-f548-44cb-af7d-e7a47932fe3a","store":"conversations","value":{"id":"aa517765-f548-44cb-af7d-e7a47932fe3a","created":{"value":"2024-03-04T08:35:52.507188Z","readable":"a moment ago"},"updated":{"value":"2024-03-04T08:35:58.891988Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"c65b44ca-7e33-4190-9162-f9a64d1e6856":0,"4cefe5d3-82f5-4123-bb5b-572e7b81a6dc":1}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Code Functionality Explained"}}
+{"key":"cfccbd3c-fb56-4064-a002-ef0ace61f83c","store":"conversations","value":{"id":"cfccbd3c-fb56-4064-a002-ef0ace61f83c","created":{"value":"2024-03-04T09:56:10.500602Z","readable":"7 minutes ago"},"updated":{"value":"2024-03-04T10:02:54.759980Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"9afbe629-9457-4eca-8557-58adc516c053":0,"10bfab6b-2d1a-471e-af88-caf5c5aa1e00":1,"32f0601e-d6a7-4021-9e5b-521a48a33638":2,"8b3792d8-5f8a-499a-a983-4ab46024bfc1":3}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Product Card Creation"}}
+{"key":"d749d2ed-1e71-4ac3-b0fb-3665cf39232b","store":"conversations","value":{"id":"d749d2ed-1e71-4ac3-b0fb-3665cf39232b","created":{"value":"2024-03-05T17:49:27.926374Z","readable":"a moment ago"},"updated":{"value":"2024-03-05T17:49:36.767461Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"47140573-dc29-4e1f-aab7-da5ce874d3ee":0,"4cebc339-1063-4174-b1c3-11fec0c95731":1}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"websites":{"iterable":[],"indices":{"7448b452-ce52-411b-913d-383f2665c40b":0}},"name":"Generating Fake Data"}}
+{"key":"e88c08d0-fba8-4805-a8af-d101c845da55","store":"conversations","value":{"id":"e88c08d0-fba8-4805-a8af-d101c845da55","created":{"value":"2024-03-04T10:02:49.161360Z","readable":"Just now..."},"updated":{"value":"2024-03-04T10:02:49.161360Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{}},"type":"COPILOT"}}
+{"key":"f990cfdb-29f4-4fd1-8861-6350508a3b17","store":"conversations","value":{"id":"f990cfdb-29f4-4fd1-8861-6350508a3b17","created":{"value":"2024-03-04T09:55:52.094805Z","readable":"Just now..."},"updated":{"value":"2024-03-04T09:55:52.094805Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{}},"type":"COPILOT"}}
+{"key":"975d2a43-7089-4259-b3fc-64320e1aa310","store":"conversations","value":{"id":"975d2a43-7089-4259-b3fc-64320e1aa310","created":{"value":"2024-03-07T14:05:08.499349Z","readable":"2 minutes ago"},"updated":{"value":"2024-03-07T14:06:41.606533Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"24f8dce4-12e0-4713-8661-a3858b3ffc9d":0,"ad38790a-2bac-4e20-8b4d-fc749989806a":1,"e3e232bf-dd50-42f8-8e65-b34cf6d25ede":2,"0c52a722-5380-4eb3-9310-6249423cdc94":3,"889c63d6-c2db-48a4-819f-9fe1755e6307":4,"ce09c00d-afcc-4abc-834b-b5c32e3d2f1d":5,"52c07564-6d15-44ce-af4b-3b2eda81d40a":6,"8c3be649-c5ce-44e5-9230-0d013c193855":7}},"assets":{"iterable":[],"indices":{"fb0ab6c2-3699-41fa-9a2a-85e26810d46f":0}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Git Basics Explained","annotations":{"iterable":[],"indices":{"cb6424e3-b2f4-4057-b369-aa95b0826600":0,"ba45a484-aff0-4c40-9e11-fbb4871dad38":1}},"model":{"id":"7e693934-e350-42ac-a96e-d240e0ee9200"}}}
+{"key":"975d2a43-7089-4259-b3fc-64320e1aa310","store":"conversations","value":{"id":"975d2a43-7089-4259-b3fc-64320e1aa310","created":{"value":"2024-03-07T14:05:08.499349Z","readable":"2 minutes ago"},"updated":{"value":"2024-03-07T14:07:05.589226Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"24f8dce4-12e0-4713-8661-a3858b3ffc9d":0,"ad38790a-2bac-4e20-8b4d-fc749989806a":1,"e3e232bf-dd50-42f8-8e65-b34cf6d25ede":2,"0c52a722-5380-4eb3-9310-6249423cdc94":3,"889c63d6-c2db-48a4-819f-9fe1755e6307":4,"ce09c00d-afcc-4abc-834b-b5c32e3d2f1d":5,"52c07564-6d15-44ce-af4b-3b2eda81d40a":6,"8c3be649-c5ce-44e5-9230-0d013c193855":7,"65042b6b-0e1d-44dc-b215-6e6a58d3272c":8}},"assets":{"iterable":[],"indices":{"fb0ab6c2-3699-41fa-9a2a-85e26810d46f":0}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Git Basics Explained","annotations":{"iterable":[],"indices":{"cb6424e3-b2f4-4057-b369-aa95b0826600":0,"ba45a484-aff0-4c40-9e11-fbb4871dad38":1}},"model":{"id":"7e693934-e350-42ac-a96e-d240e0ee9200"}}}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"key":"660f03d3-32a5-44d0-a782-bf66906c2b99","store":"conversations","value":{"id":"660f03d3-32a5-44d0-a782-bf66906c2b99","created":{"value":"2024-03-05T09:16:37.988905Z","readable":"6 days ago"},"updated":{"value":"2024-03-11T11:16:56.030180Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"f615269b-aa78-42fb-b70b-5f9890aafcec":0,"cc1f38ff-5d5c-4ac0-8688-3aa3a50cf406":1,"57355906-9c33-4f48-8e0f-6fe198ebb61f":2}},"assets":{"iterable":[],"indices":{"fbfa67af-8cd4-4023-b650-297ae0ebd8bb":-1}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"demo":true,"annotations":{"iterable":[],"indices":{"31715c14-e1e9-4083-b8eb-1887f9e55fe8":0}},"name":"Express Server Setup"}}
+{"version":0,"sembast":1}
+{"key":"660f03d3-32a5-44d0-a782-bf66906c2b99","store":"conversations","value":{"id":"660f03d3-32a5-44d0-a782-bf66906c2b99","created":{"value":"2024-03-05T09:16:37.988905Z","readable":"6 days ago"},"updated":{"value":"2024-03-11T11:16:56.030180Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"f615269b-aa78-42fb-b70b-5f9890aafcec":0,"cc1f38ff-5d5c-4ac0-8688-3aa3a50cf406":1,"57355906-9c33-4f48-8e0f-6fe198ebb61f":2}},"assets":{"iterable":[],"indices":{}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"demo":true,"annotations":{"iterable":[],"indices":{"31715c14-e1e9-4083-b8eb-1887f9e55fe8":0}},"name":"Express Server Setup"}}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"key":"dc69cae0-c04f-4b43-8e76-122790bc6c94","store":"conversations","value":{"id":"dc69cae0-c04f-4b43-8e76-122790bc6c94","created":{"value":"2024-04-25T09:52:26.192098Z","readable":"Just now..."},"updated":{"value":"2024-04-25T09:52:26.192098Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{}},"type":"COPILOT"}}
+{"key":"dc69cae0-c04f-4b43-8e76-122790bc6c94","store":"conversations","value":{"id":"dc69cae0-c04f-4b43-8e76-122790bc6c94","created":{"value":"2024-04-25T09:52:26.192098Z","readable":"a moment ago"},"updated":{"value":"2024-04-25T09:52:27.475734Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"fa80f003-6c42-40ca-9527-32e95fb8b3e3":0}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"dc69cae0-c04f-4b43-8e76-122790bc6c94","store":"conversations","value":{"id":"dc69cae0-c04f-4b43-8e76-122790bc6c94","created":{"value":"2024-04-25T09:52:26.192098Z","readable":"a moment ago"},"updated":{"value":"2024-04-25T09:52:31.018604Z"},"messages":{"iterable":[],"indices":{"fa80f003-6c42-40ca-9527-32e95fb8b3e3":0}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Fix Expected Expression Error"}}
+{"key":"dc69cae0-c04f-4b43-8e76-122790bc6c94","store":"conversations","value":{"id":"dc69cae0-c04f-4b43-8e76-122790bc6c94","created":{"value":"2024-04-25T09:52:26.192098Z","readable":"a moment ago"},"updated":{"value":"2024-04-25T09:52:33.035244Z","readable":"Just now..."},"messages":{"iterable":[],"indices":{"fa80f003-6c42-40ca-9527-32e95fb8b3e3":0,"08389b71-6b21-4bae-a629-065415888725":1}},"type":"COPILOT","schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"},"name":"Fix Expected Expression Error"}}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
