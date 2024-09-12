@@ -166,3 +166,56 @@
 {"key":"8759bcee-2410-4f6f-b2d7-b4a9a7c1e8f8","store":"models","value":{"id":"8759bcee-2410-4f6f-b2d7-b4a9a7c1e8f8","version":"t27-v01-i01","created":{"value":"2024-06-19T18:30:00.000Z"},"name":"Claude 3.5 Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3.5","unique":"claude-3-5-sonnet@20240620","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":32000,"input":27904,"output":4096}}}
 {"key":"7dbe708f-955e-4fdb-9c29-31e344729bc1","store":"models","value":{"id":"7dbe708f-955e-4fdb-9c29-31e344729bc1","version":"t28-v01-i01","created":{"value":"2024-02-28T18:30:00.000Z"},"name":"Claude 3 Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3","unique":"claude-3-sonnet@20240229","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":32000,"input":27904,"output":4096}}}
 {"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"key":"19695c39-bb2a-43ef-aabf-8455f917f6a3","store":"models","value":{"id":"19695c39-bb2a-43ef-aabf-8455f917f6a3","version":"t23-v01-i01","created":{"value":"2024-02-08T18:30:00.000Z","readable":"6 months ago"},"name":"GPT-4 Turbo Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_4","unique":"gpt-4-turbo","provider":"OPENAI","cpu":false,"maxTokens":{"total":40000,"input":30000,"output":10000},"schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"f214f8e1-7746-4812-88bd-414429cf1acb","store":"models","value":{"id":"f214f8e1-7746-4812-88bd-414429cf1acb","version":"t24-v01-i01","created":{"value":"2024-05-14T18:30:00.000Z","readable":"2 months ago"},"name":"GPT-4o Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GPT_4","unique":"gpt-4o","provider":"OPENAI","cpu":false,"maxTokens":{"total":40000,"input":30000,"output":10000},"schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"5c43d05c-9c02-4ca1-a253-7ed24ca7bddb","store":"models","value":{"id":"5c43d05c-9c02-4ca1-a253-7ed24ca7bddb","version":"t25-v01-i01","created":{"value":"2024-05-27T18:30:00.000Z","readable":"about a month ago"},"name":"Gemini-1.5 Pro Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"GEMINI_1.5","unique":"gemini-1.5-pro","provider":"GOOGLE","cpu":false,"maxTokens":{"total":40000,"input":30000,"output":10000},"schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"67ee2265-43a2-48ed-8a28-a853b0470e72","store":"models","value":{"id":"67ee2265-43a2-48ed-8a28-a853b0470e72","version":"t26-v01-i01","created":{"value":"2024-05-27T18:30:00.000Z","readable":"about a month ago"},"name":"Gemini-1.5 Flash Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"GEMINI_1.5","unique":"gemini-1.5-flash","provider":"GOOGLE","cpu":false,"maxTokens":{"total":40000,"input":30000,"output":10000},"schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"8759bcee-2410-4f6f-b2d7-b4a9a7c1e8f8","store":"models","value":{"id":"8759bcee-2410-4f6f-b2d7-b4a9a7c1e8f8","version":"t27-v01-i01","created":{"value":"2024-06-19T18:30:00.000Z","readable":"about a month ago"},"name":"Claude 3.5 Sonnet Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3.5","unique":"claude-3-5-sonnet@20240620","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":40000,"input":35000,"output":4096},"schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"7dbe708f-955e-4fdb-9c29-31e344729bc1","store":"models","value":{"id":"7dbe708f-955e-4fdb-9c29-31e344729bc1","version":"t28-v01-i01","created":{"value":"2024-02-28T18:30:00.000Z","readable":"5 months ago"},"name":"Claude 3 Sonnet Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3","unique":"claude-3-sonnet@20240229","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":40000,"input":35000,"output":4096},"schema":{"migration":0,"semantic":"MAJOR_0_MINOR_0_PATCH_1"}}}
+{"key":"5e2a1a1f-16dd-4ffd-bf60-52a38bd75cdb","store":"models","value":{"id":"5e2a1a1f-16dd-4ffd-bf60-52a38bd75cdb","version":"t29-v01-i01","created":{"value":"2024-02-28T18:30:00.000Z"},"name":"Claude 3 Opus Chat Model","cloud":true,"type":"BALANCED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3","unique":"claude-3-opus@20240229","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":40000,"input":35000,"output":4096}}}
+{"key":"e556f81d-304b-46d7-a866-24087ead2b63","store":"models","value":{"id":"e556f81d-304b-46d7-a866-24087ead2b63","version":"t30-v01-i01","created":{"value":"2024-03-26T18:30:00.000Z"},"name":"Claude 3 Haiku Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"CLAUDE_3","unique":"claude-3-haiku@20240307","provider":"ANTHROPIC","cpu":false,"maxTokens":{"total":40000,"input":35000,"output":4096}}}
+{"key":"c9e0ca46-d18d-4a4b-8ac5-7b0685236224","store":"models","value":{"id":"c9e0ca46-d18d-4a4b-8ac5-7b0685236224","version":"t31-v01-i01","created":{"value":"2024-07-17T18:30:00.000Z"},"name":"GPT-4o Mini Chat Model","cloud":true,"type":"SPEED","usage":"CODE_CONVERSATION","foundation":"GPT_4","unique":"gpt-4o-mini","provider":"OPENAI","cpu":false,"maxTokens":{"total":40000,"input":30000,"output":10000}}}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
+{"version":0,"sembast":1}
